@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Gabryel Bento Teixeira I have two years of experience in customer service and systems administration.<br>I have knowledge and good practices aimed at the corporate environment in: Windows Server, file server, Firewall, and Linux servers.<br>I have knowledge in Docker and AWS.<br>My interests are in DevOps, everything involving the area of Sysadmin, and all new technologies.
+Hi, I'm Gabryel Bento Teixeira I have two years of experience in customer service and systems administration.<br>I have knowledge and good practices aimed at the corporate environment in: Windows Server, file server, Firewall, and Linux servers.<br>I have knowledge in Docker and AWS.<br>My interests are in DevOps technologies, and programming languages (like, python, java, golang).
 
 
 ## 🌐 Socials:
