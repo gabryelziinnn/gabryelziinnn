@@ -21,9 +21,4 @@ Hi, I'm Gabryel Bento Teixeira.<br>I have knowledge and good practices aimed at 
 ---
 [![](https://visitcount.itsvg.in/api?id=gabryelziinnn&icon=1&color=0)](https://visitcount.itsvg.in)
 
-# CKA and CKAD Certified
-[<img alt="alt_text" width="40px" src="images/image.PNG" />](https://www.credly.com/badges/62c2c9dd-304f-41c6-9041-cf93215e88c1)
-[<img alt="alt_text" width="40px" src="images/image.PNG" />](https://www.credly.com/badges/742d0537-64b3-4f3f-ab81-3506969e5bed)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
