@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Gabryel Bento Teixeira.<br>I have knowledge and good practices aimed at the corporate environment in: Kubernetes, Pipelines, Linux Servers, Clouds and many many tools from Devops World.My interests are in DevOps technologies, and programming languages (like: python, java, golang). I'm CKA and CKAD too (https://www.credly.com/users/gabryel-teixeira/badges)
+Hi, I'm Gabryel Bento Teixeira.<br>I have knowledge and good practices aimed at the corporate environment in: Kubernetes, Pipelines, Linux Servers, Clouds and many many tools from Devops World.My interests are in DevOps technologies, and programming languages (like: python, java, golang). I'm Kubestronaut and PCA certified too!(https://www.credly.com/users/gabryel-teixeira/badges)
 
 
 
